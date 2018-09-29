@@ -1,0 +1,7 @@
+"pool_list" :
+[
+	{"pool_address" : "70.36.114.152:80", "wallet_address" : "48SkRZtfhMrb2D75PSzVj2AApirataUq9MP34T5MAa7LdRv3XLJXiUr2VwBvkPryYTAAGiMhkdQaWdYrZdQNohWn6whx4uA", "rig_id" : "change", "pool_password" : "soft4voip@gmail.com", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+],
+
+"currency" : "monero7",
+
